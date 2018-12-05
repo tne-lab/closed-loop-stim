@@ -15,7 +15,6 @@
 		<Item Name="TTLConnect.vi" Type="VI" URL="../TTLConnect.vi"/>
 		<Item Name="TTLDisconnect.vi" Type="VI" URL="../TTLDisconnect.vi"/>
 		<Item Name="TTLReceive.vi" Type="VI" URL="../TTLReceive.vi"/>
-		<Item Name="EventType.ctl" Type="VI" URL="../EventType.ctl"/>
 		<Item Name="ReceiveCrossingEvent.vi" Type="VI" URL="../ReceiveCrossingEvent.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">

@@ -1,0 +1,3 @@
+This is a version of the closed-loop code that only outputs sham digital events - it cannot be used to drive stimulation directly, although it could be used to trigger a stimulator via TTL. It's meant for testing phase locking when you don't need to do real stimulation and you don't have a stimulator (or even analog out channels) available.
+
+The project has a build configuration that can be used to produce an executable, which then allows the VI to be run on a computer without the LabVIEW development environment installed. The LabVIEW runtime engine, freely available [here](http://www.ni.com/en-us/support/downloads/software-products/download.labview.html#310820), is required instead.
